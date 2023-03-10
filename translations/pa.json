@@ -1,0 +1,13 @@
+{
+  "common": {},
+  "login": {
+    "title": "ਲਾਗਇਨ",
+    "email-username": "ਈਮੇਲ ਪਤਾ / ਫ਼ੋਨ ਨੰਬਰ",
+     "email-username-placeholder":"ਈਮੇਲ ਜਾਂ ਫ਼ੋਨ ਨੰਬਰ ਦਰਜ ਕਰੋ",
+    "password": "ਪਾਸਵਰਡ",
+    "password-placeholder":"ਆਪਣਾ ਪਾਸਵਰਡ ਦਿਓ",
+    "submit-button": "ਲਾਗਇਨ",
+    "signup-label": "ਤੁਹਾਡੇ ਕੋਲ ਖਾਤਾ ਨਹੀਂ ਹੈ?",
+    "forgot-password-label": "ਕੀ ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ ਹੋ?"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "common": {},
+  "login": {
+      "title": "Login",
+      "email-username": "Email address / Phone number",
+      "email-username-placeholder":"Enter your email or phone number",
+      "password": "Password",
+      "password-placeholder":"Enter your password",
+      "submit-button": "Login",
+      "signup-label": "Don't have account?",
+      "forgot-password-label": "Forgot Password?"
+  }
+}
